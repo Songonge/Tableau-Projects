@@ -69,7 +69,7 @@ The analysis was performed in Tableau Desktop. To do so,
 *	All the charts were assembled and made interactive through the use of filters to display Donor potential, Demographics, and years of donations. 
 
 <figure>
-  <img src="https://github.com/Songonge/Data-Analytics-Projects/blob/main/All%20Projects/Donation%20Analysis/Donation%20Analysis%20Dashboard.png" width=100% height=100% alt="alt text">
+  <img src="https://github.com/Songonge/Tableau-Projects/blob/main/Donation%20Analysis/Donation%20Analysis%20Dashboard.png" width=100% height=100% alt="alt text">
   <figcaption>Figure: Donation Analysis Dashboard</figcaption>
 </figure>
 <br/><br/> 
