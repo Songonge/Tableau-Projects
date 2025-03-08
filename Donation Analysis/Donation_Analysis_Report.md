@@ -26,7 +26,7 @@
 This donation analysis report aims to provide a comprehensive overview of an organization's fundraising efforts, donor engagement, and donation patterns. By analyzing the data collected from various fundraising campaigns and donor interactions, this report seeks to identify key trends, strengths, and areas for improvement in donation strategies. Understanding these elements will enable organizations to optimize their fundraising efforts, enhance donor relationships, and ultimately increase the overall effectiveness of their philanthropic initiatives. Through this analysis, I aim to gain valuable insights that will inform organizations' future strategies and ensure the sustainability and growth of their mission.
 
 ## Project Aim
-This project evaluates donation patterns and donor behaviors to optimize future campaigns and maximize contributions. It also identifies states with many donors which can be crucial for strategic planning and targeted fundraising efforts. 
+This project evaluates donation patterns and donor behaviors to optimize future campaigns and maximize contributions. It also identifies states with many donors, which can be crucial for strategic planning and targeted fundraising efforts. 
 
 ## Project Description
 The Donation Analysis project aims to evaluate donation patterns, donor behaviors, and fundraising effectiveness to optimize future campaigns and maximize contributions. It involves analyzing data on donation amounts, frequency, and donor demographics. Using statistical tools and data visualization, the analysis identifies key trends, successful strategies, and areas for improvement. The report provides actionable insights and recommendations to enhance donor engagement, target potential high-value donors, and improve overall fundraising efficiency. Tableau Desktop is used to complete the data analysis. 
@@ -41,7 +41,7 @@ I will derive the following insights from this data such as trends, patterns, an
   
 Here is what I did:
 ## Data Acquisition and Preparation
-The data were obtained from the Tableau website. MeriSKILL provided data. I downloaded the dataset as a .csv file and uploaded it in Tableau Prep for cleaning and transformation purposes. This dataset had 9 columns in total and was recorded for the years *2013* to *2017*.
+The data were obtained from the Tableau website. I downloaded the dataset as a .csv file and uploaded it in Tableau Prep for cleaning and transformation purposes. This dataset had 9 columns in total and was recorded for the years *2013* to *2017*.
 *	Donor Potential: Classification of donor potential (e.g., High, Medium, Low, Not Specified).
 *	Donor Name: Name of the donor.
 *	Demographic: Socioeconomic classification (e.g., Middle Class, Upper-Middle Class).
